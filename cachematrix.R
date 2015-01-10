@@ -1,4 +1,4 @@
-# Here I provide both functions needed for the 2nd R programming assignment
+# Here I provide both functions needed for the 2nd R programming assignment.
 # Both functions have checks for 1) missing argument, 2) non-matrix argument, 2) not square matrix.
 # This is done in case someone will use them separately (for a debugging, for example).
 
